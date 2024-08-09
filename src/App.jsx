@@ -8,7 +8,7 @@ function App() {
 
   return (
     <div className='container'>
-      <Title>Título de boas-vindas!</Title>
+      <Title>Título de boas-vindas! Modal Included!</Title>
       <Greeting firstName='Joana' lastName='Ferreira'/>
       <Counter/>
     </div>
